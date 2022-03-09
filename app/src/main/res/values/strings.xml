@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Mobile Technical Challenge</string>
+    <string name="one">1</string>
+    <string name="rates">Rates</string>
+    <string name="euro">Euro</string>
+    <string name="eur">EUR</string>
 </resources>
